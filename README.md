@@ -10,6 +10,21 @@
 * Вдовина Анастасия Владимировна – 3530904/00101
 ## Требования
 ## Архитектура
+## Дизайн приложения
+### Светлая тема
+<p>
+<img src="/res/screens/light_screen_1.png" width="200">
+<img src="/res/screens/light_screen_2.png" width="200">
+<img src="/res/screens/light_screen_3.png" width="200">
+</p>
+
+### Темная тема
+<p>
+<img src="/res/screens/dark_screen_1.png" width="200">
+<img src="/res/screens/dark_screen_2.png" width="200">
+<img src="/res/screens/dark_screen_3.png" width="200">
+</p>
+
 ## Технологии
 ## Исходный код
 ## Unit-тесты
