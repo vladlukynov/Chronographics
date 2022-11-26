@@ -21,6 +21,12 @@
 <img src="/res/diagrams/use_case_diagram.png" width="800">
 
 ## Архитектура
+### System Context Diagram
+<img src="/res/diagrams/system_context_diagram.png" width="800">
+
+### Container Diagram
+<img src="/res/diagrams/container_diagram.png" width="800">
+
 ## Дизайн приложения
 ### Светлая тема
 <p>
