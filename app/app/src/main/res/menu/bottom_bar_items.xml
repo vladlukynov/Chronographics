@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_icon"
+        android:title="@string/home_item" />
+    <item
+        android:id="@+id/tasks"
+        android:icon="@drawable/tasks_icon"
+        android:title="@string/tasks_item" />
+    <item
+        android:id="@+id/notifications"
+        android:icon="@drawable/notifications_icon"
+        android:title="@string/notifications_item" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/settings_icon"
+        android:title="@string/settings_item" />
+</menu>
