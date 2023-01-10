@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Chronographics</string>
+    <string name="home_item">Главная</string>
+    <string name="tasks_item">Списки</string>
+    <string name="notifications_item">Уведмоления</string>
+    <string name="settings_item">Настройки</string>
+    <string name="all_done_big_text">Все ближайшие дела\nсделаны!</string>
+    <string name="all_done_small_text">Теперь можно отдохнуть</string>
 </resources>
